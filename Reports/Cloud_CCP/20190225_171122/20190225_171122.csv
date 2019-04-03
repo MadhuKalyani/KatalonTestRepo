@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Cloud_CCP,Chrome 72.0.3626.109,,2019-02-25 17:11:30,2019-02-25 17:12:36,1m - 6.377s,INCOMPLETE
+,,,,,,
+Test Cases/CloudTestCases/CCP_Validations_MicrosoftOffice_Premium_21_23_24_26_27_28_29_30_32_33_34_35_36,Chrome 72.0.3626.109,,2019-02-25 17:11:30,2019-02-25 17:12:36,1m - 5.902s,INCOMPLETE
+Start listener action : sampleBeforeTestCase,Chrome 72.0.3626.109,,2019-02-25 17:11:30,2019-02-25 17:11:30,0.033s,PASSED
+cCP_Functionality.CCP_Login.CCPLogin(),Chrome 72.0.3626.109,,2019-02-25 17:11:31,2019-02-25 17:11:49,17.922s,PASSED
+cCP_Functionality.Validations.HomePage_Validations(),Chrome 72.0.3626.109,,2019-02-25 17:11:49,2019-02-25 17:11:51,1.898s,PASSED
+cCP_Functionality.Adding_UserLicense.Adding_MicrosoftUserLicense(),Chrome 72.0.3626.109,,2019-02-25 17:11:51,2019-02-25 17:12:36,45.652s,INCOMPLETE

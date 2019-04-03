@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RCP_13_Cancel Order-Zero Amount cancel order Dropbox Business Standard Yearly Bill a zero annual refund - Cancellation Order by Customer</name>
+   <tag></tag>
+   <comment>>>> currentTestCaseId=$GlobalVariable.currentTestCaseId</comment>
+   <testCaseGuid>c835e687-5911-4710-8c34-03e75000db90</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Cloud_CCP,Chrome 72.0.3626.109,,2019-02-25 17:15:00,2019-02-25 17:17:43,2m - 42.959s,PASSED
+,,,,,,
+Test Cases/CloudTestCases/CCP_Validations_DropBox Stand_1_3_4_5_7_8_9_10_11_12_14_16_17_18_19,Chrome 72.0.3626.109,,2019-02-25 17:15:01,2019-02-25 17:17:42,2m - 41.110s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 72.0.3626.109,,2019-02-25 17:15:01,2019-02-25 17:15:01,0.252s,PASSED
+cCP_Functionality.CCP_Login.CCPLogin(),Chrome 72.0.3626.109,,2019-02-25 17:15:02,2019-02-25 17:15:21,19.755s,PASSED
+cCP_Functionality.Validations.HomePage_Validations(),Chrome 72.0.3626.109,,2019-02-25 17:15:21,2019-02-25 17:15:23,1.181s,PASSED
+cCP_Functionality.Adding_UserLicense.Adding_DropBoxUserLicense(),Chrome 72.0.3626.109,,2019-02-25 17:15:23,2019-02-25 17:17:00,1m - 37.640s,PASSED
+"cCP_Functionality.Microsoft_Users_Validations.Microsoft_Users_validation(""Not Activated"")",Chrome 72.0.3626.109,,2019-02-25 17:17:00,2019-02-25 17:17:10,9.895s,PASSED
+cCP_Functionality.Microsoft_Users_Validations.Login_ASUser(),Chrome 72.0.3626.109,,2019-02-25 17:17:10,2019-02-25 17:17:33,22.513s,PASSED
+"cCP_Functionality.Microsoft_Users_Validations.deactivate_User(""Ready"")",Chrome 72.0.3626.109,,2019-02-25 17:17:33,2019-02-25 17:17:42,9.549s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 72.0.3626.109,,2019-02-25 17:17:42,2019-02-25 17:17:42,0.002s,PASSED
+,,,,,,
+Test Cases/CloudTestCases/CCP_Validations_DropBox Advance_2_6_13_15_,Chrome 72.0.3626.109,,2019-02-25 17:17:42,2019-02-25 17:17:43,0.528s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 72.0.3626.109,,2019-02-25 17:17:43,2019-02-25 17:17:43,0.001s,PASSED
+return null,Chrome 72.0.3626.109,,2019-02-25 17:17:43,2019-02-25 17:17:43,0.001s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 72.0.3626.109,,2019-02-25 17:17:43,2019-02-25 17:17:43,0.002s,PASSED

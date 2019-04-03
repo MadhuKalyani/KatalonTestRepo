@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RCP_08_New order- Multiple Quantitynew order Dropbox Business Advanced Yearly Bill annual charge</name>
+   <tag></tag>
+   <comment>>>> currentTestCaseId=$GlobalVariable.currentTestCaseId</comment>
+   <testCaseGuid>a1423fbc-92c9-46c5-893a-65c92da558f8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RCP_16_Cancel Order-Zero Amount the cancel order Microsoft office 365 Business Essentials a zero annual refund - Cancellation Order by Customer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2a4cc3b-b260-4b73-b5cd-085dbbf1d67b</testCaseGuid>
+</TestCaseEntity>

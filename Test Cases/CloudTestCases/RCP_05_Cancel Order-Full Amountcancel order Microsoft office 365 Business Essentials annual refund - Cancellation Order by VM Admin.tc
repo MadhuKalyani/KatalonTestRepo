@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RCP_05_Cancel Order-Full Amountcancel order Microsoft office 365 Business Essentials annual refund - Cancellation Order by VM Admin</name>
+   <tag></tag>
+   <comment>>>> currentTestCaseId=$GlobalVariable.currentTestCaseId</comment>
+   <testCaseGuid>540532ad-8690-46f7-adf5-7b59b1368c37</testCaseGuid>
+</TestCaseEntity>

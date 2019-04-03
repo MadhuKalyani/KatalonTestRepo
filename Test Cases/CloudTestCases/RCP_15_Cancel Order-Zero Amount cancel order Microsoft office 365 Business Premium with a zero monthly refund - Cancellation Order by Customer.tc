@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RCP_15_Cancel Order-Zero Amount cancel order Microsoft office 365 Business Premium with a zero monthly refund - Cancellation Order by Customer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65eba6bb-dc32-46dc-b243-369fd105efcb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RCP_11_Cancel Order-Full Amount cancel order Dropbox Business Standard Subscription full period annual refund - Cancellation Order by VM Admin</name>
+   <tag></tag>
+   <comment>>>> currentTestCaseId=$GlobalVariable.currentTestCaseId</comment>
+   <testCaseGuid>a2e67561-99ea-4754-88ef-2be42f341e78</testCaseGuid>
+</TestCaseEntity>

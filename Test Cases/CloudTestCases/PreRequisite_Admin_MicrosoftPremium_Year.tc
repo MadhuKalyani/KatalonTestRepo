@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PreRequisite_Admin_MicrosoftPremium_Year</name>
+   <tag></tag>
+   <comment>>>> currentTestCaseId=$GlobalVariable.currentTestCaseId</comment>
+   <testCaseGuid>0b506be5-8a5f-4493-bcea-91aedc5b5f09</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Code for Word Document</name>
+   <tag></tag>
+   <comment>>>> currentTestCaseId=$GlobalVariable.currentTestCaseId
+
+
+
+</comment>
+   <testCaseGuid>78d75597-128d-4f15-8b5f-5930caa4a97d</testCaseGuid>
+</TestCaseEntity>

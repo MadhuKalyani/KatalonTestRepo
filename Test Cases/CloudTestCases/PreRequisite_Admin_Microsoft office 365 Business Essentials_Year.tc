@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PreRequisite_Admin_Microsoft office 365 Business Essentials_Year</name>
+   <tag></tag>
+   <comment>>>> currentTestCaseId=$GlobalVariable.currentTestCaseId</comment>
+   <testCaseGuid>84a2258c-7b6d-475c-b325-17a034685e22</testCaseGuid>
+</TestCaseEntity>

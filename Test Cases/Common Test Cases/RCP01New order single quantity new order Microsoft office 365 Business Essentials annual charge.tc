@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RCP01New order single quantity new order Microsoft office 365 Business Essentials annual charge</name>
+   <tag></tag>
+   <comment>>>> currentTestCaseId=$GlobalVariable.currentTestCaseId</comment>
+   <testCaseGuid>7a02ce9c-55da-40c8-8d2b-54ce6c388c3d</testCaseGuid>
+</TestCaseEntity>

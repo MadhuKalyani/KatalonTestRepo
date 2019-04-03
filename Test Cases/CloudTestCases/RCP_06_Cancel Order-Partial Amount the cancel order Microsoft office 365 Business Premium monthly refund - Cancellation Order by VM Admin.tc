@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RCP_06_Cancel Order-Partial Amount the cancel order Microsoft office 365 Business Premium monthly refund - Cancellation Order by VM Admin</name>
+   <tag></tag>
+   <comment>>>> currentTestCaseId=$GlobalVariable.currentTestCaseId</comment>
+   <testCaseGuid>678e8b7f-c6ba-48c9-a428-827997b993bc</testCaseGuid>
+</TestCaseEntity>

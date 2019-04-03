@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RCP_10_Change order-Quantity Decrease change order Dropbox Business Advanced Subscription on an account annual charge</name>
+   <tag></tag>
+   <comment>>>> currentTestCaseId=$GlobalVariable.currentTestCaseId</comment>
+   <testCaseGuid>a8945a96-b289-4a74-9a19-f76e781138d8</testCaseGuid>
+</TestCaseEntity>
